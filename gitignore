@@ -1,0 +1,5 @@
+users.db
+*.sqlite
+*.log
+.DS_Store
+Thumbs.db
